@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Sacco management system<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning javascript and react/redux<br>💬 Ask me about anything javascript<br>⚡ Fun fact: I love games, especially those made with javascript. 
+🔭 I’m currently working on a Sacco management system<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning JavaScript and react/redux<br>💬 Ask me about anything javascript<br>⚡ Fun fact: I love games, especially those made with javascript. 
 
 
 ## 🌐 Socials:
